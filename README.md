@@ -12,5 +12,6 @@ It will be able to answer questions about
   <li>the date and time,</li>
   <li>famous people and theories that exist in wikipedia.</li>
   <li>It will play music from youtube.</li>
+  <li>Answer questions about streets and roads and monuments in Athens and show locations via google maps</li>
 </ul>
 
