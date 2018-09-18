@@ -5,5 +5,12 @@ We will create an autonomous vehicle - robot which is going to recognise people'
 If it doesn't recognise them, it will ask them their name. 
 It will then say: "Nice to meet you and the name".
 Next time it meets that person it will say "Hello name".
-  
+
+It will be able to answer questions about
+<ul>
+  <li>the weather anywhere in Greece,</li>
+  <li>the date and time,</li>
+  <li>famous people and theories that exist in wikipedia.</li>
+  <li>It will play music from youtube.</li>
+</ul>
 
